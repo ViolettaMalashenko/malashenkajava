@@ -1,3 +1,4 @@
 Выполненные задание 1,2,3 - находится в class Main
 Выполнение задание 4 - находиться в файле task4.txt
-JAR-файл сгенерирован в директории out -> artifacts -> malashenkajava_jar
+JAR-файл сгенерирован в директории out -> artifacts -> malashenkajava_jar. Если вы хотите запустить jar файл
+ из console: java -jar malashenkajava.jar
