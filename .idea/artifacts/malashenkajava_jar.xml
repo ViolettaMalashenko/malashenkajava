@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="malashenkajava:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/malashenkajava_jar</output-path>
-    <root id="archive" name="malashenkajava.jar">
-      <element id="module-output" name="malashenkajava" />
-    </root>
-  </artifact>
-</component>
